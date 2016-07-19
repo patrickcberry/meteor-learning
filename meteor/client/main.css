@@ -1,1 +1,6 @@
 /* CSS declarations go here */
+
+/* Add top marging to body due to using fixed navbar */
+body {
+	margin-top: 50px;
+}
