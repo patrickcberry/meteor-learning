@@ -4,13 +4,16 @@ Project to investigate the features of the Meteor (http://www.meteor.com) platfo
 
 Intend to work through and the features and packages in three broard stages (basic, intermediate and advanced) listed below,
 
+[bootstrap](bootstrap.md)
+
 ## Basic 
-* Bootstrap themes
-* Authentication
-* Initalize database (from json)
-* User management
-* Roles and permissions
-* Deploy to cloud server (AWS)
+- [ ] Bootstrap themes
+- [ ] Authentication
+- [ ] Initalize database (from json)
+- [ ] User management
+- [ ] Roles and permissions
+- [ ] Deploy to cloud server (AWS)
+- [ ] Remove insecure and autopublish packages
 
 May need a simple application (list manager etc.) to work with all of the features above.
 
