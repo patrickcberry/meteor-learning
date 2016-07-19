@@ -4,6 +4,8 @@ Project to investigate the features of the Meteor (http://www.meteor.com) platfo
 
 Intend to work through and the features and packages in three broard stages (basic, intermediate and advanced) listed below,
 
+[bootstrap](bootstrap.md)
+
 ## Basic 
 - [ ] Bootstrap themes
 - [ ] Authentication
