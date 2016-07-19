@@ -1,7 +1,5 @@
 # meteor-learning
 
-AAAAA
-
 Project to investigate the features of the Meteor (http://www.meteor.com) platform for developing web applications.
 
 Intend to work through and the features and packages in three broard stages (basic, intermediate and advanced) listed below,
@@ -48,3 +46,12 @@ cd path-to-project-folder\meteor-learning
 meteor
 ```
 Open webbrowser to http://localhost:3000
+
+# Notes
+
+## Bootstrap
+
+From the windows command line,
+```
+meteor add twbs:bootstrap
+```
