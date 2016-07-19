@@ -8,9 +8,10 @@ Intend to work through and the features and packages in three broard stages (bas
 - [ ] Bootstrap themes
 - [ ] Authentication
 - [ ] Initalize database (from json)
-* User management
-* Roles and permissions
-* Deploy to cloud server (AWS)
+- [ ] User management
+- [ ] Roles and permissions
+- [ ] Deploy to cloud server (AWS)
+- [ ] Remove insecure and autopublish packages
 
 May need a simple application (list manager etc.) to work with all of the features above.
 
