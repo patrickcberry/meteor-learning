@@ -5,9 +5,9 @@ Project to investigate the features of the Meteor (http://www.meteor.com) platfo
 Intend to work through and the features and packages in three broard stages (basic, intermediate and advanced) listed below,
 
 ## Basic 
-[ ] Bootstrap themes
-[ ] Authentication
-* Initalize database (from json)
+- [ ] Bootstrap themes
+- [ ] Authentication
+- [ ] Initalize database (from json)
 * User management
 * Roles and permissions
 * Deploy to cloud server (AWS)
