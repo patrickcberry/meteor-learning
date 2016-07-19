@@ -24,3 +24,25 @@ May need a simple application (list manager etc.) to work with all of the featur
 
 ## Advanced
 * TBC
+
+# Running the application
+
+## Prerequisites
+
+The following software must be installed,
+* Git (https://git-scm.com/downloads)
+* Meteor (http://www.meteor.com)
+
+## Download and run
+
+In Windows clone the repository and run. From the GIT Bash console,
+```
+git clone https://github.com/patrickcberry/meteor-learning
+```
+
+From the windows command line,
+```
+cd path-to-project-folder\meteor-learning
+meteor
+```
+Open webbrowser to http:\\localhost:3000
