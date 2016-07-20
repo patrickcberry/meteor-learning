@@ -31,9 +31,17 @@
   </nav>
 
   <div class="container">
-    <h1>Welcome to the Meteor Learning project</h1>
-    {{> hello}}
-    {{> info}}
+    {{#if currentUser}}
+      <h1>Welcome to the Meteor Learning project</h1>
+      <p>
+        This is the protected content!
+      </p>
+      {{> hello}}
+      {{> info}}      
+    {{else}}
+      <!-- Display this message is user is not logged in -->    
+      <h1>Please create an account or sign in</h1>
+    {{/if}}
   </div><!-- /.container -->
 
 </body>
